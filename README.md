@@ -52,8 +52,9 @@ In short, think "Jarvis" ...but on a budget.*
 
 ## 🚧 What I’m Working on Now
 
-- [**Project MyShelf**](https://github.com/bsc7080gbc/genai_prompt_myshelf)
-  *MyShelf is a dynamic GenAI utility designed to enhance personal organization.*
+- [**Project MyShelf**](https://github.com/bsc7080gbc/genai_prompt_myshelf):
+
+*MyShelf is a dynamic GenAI utility designed to enhance personal organization.*
 
 **Read the Docs**:
    - [![User Manual](https://img.shields.io/badge/user%20manual-8A2BE2)](https://github.com/bsc7080gbc/genai_prompt_myshelf/wiki)
