@@ -22,8 +22,11 @@ Hi there! 👋! This is my little corner of the tech world. I’m passionate abo
 
 ## 📂 Featured Projects
 
-- [**Project MyShelf**](https://github.com/bsc7080gbc/genai_prompt_myshelf):  
-  *MyShelf is a dynamic GenAI utility designed to enhance personal organization. It allows users to track reminders, store memories, manage ad-hoc information, and create categorized shopping lists. Simplification of what is required was the goal: ChatGPT + GitHub. Instructions have been provided to walk you through and explain the purpose and setup. I have also provided some historical versions as well so you can see how I matured the solution to where it is today.
+[**Project MyShelf**](https://github.com/bsc7080gbc/genai_prompt_myshelf):
+
+![GitHub Repo stars](https://img.shields.io/github/stars/bsc7080gbc/genai_prompt_myshelf?style=social)
+
+*MyShelf is a dynamic GenAI utility designed to enhance personal organization. It allows users to track reminders, store memories, manage ad-hoc information, and create categorized shopping lists. Simplification of what is required was the goal: ChatGPT + GitHub. Instructions have been provided to walk you through and explain the purpose and setup. I have also provided some historical versions as well so you can see how I matured the solution to where it is today.
 .
 In short, think "Jarvis" ...but on a budget.*
 
@@ -31,16 +34,27 @@ In short, think "Jarvis" ...but on a budget.*
   > - [![User Manual](https://img.shields.io/badge/user%20manual-8A2BE2)](https://github.com/bsc7080gbc/genai_prompt_myshelf/wiki)
 
 
-- [**Content Generator**](https://github.com/bsc7080gbc/genai_content_generator ):  
-  *Generate/convert content that feels less robotic. Then run it through a Detector (also provided) to see how you did.*
+[**Content Generator**](https://github.com/bsc7080gbc/genai_content_generator ):  
+
+![GitHub Repo stars](https://img.shields.io/github/stars/bsc7080gbc/genai_content_generator?style=social)
+
+*Generate/convert content that feels less robotic. Then run it through a Detector (also provided) to see how you did.*
 
 
-- [**Context is Everything**](https://github.com/bsc7080gbc/genai_core_prompt):  
-  *Effective use of prompt frameworks, prompt techniques (CoT, ToT, SoT, etc), prompt engineering structures, feedback mechanisms, validation mechanisms, and other important elements providing context to our inquiries - these plus iteration - we can discover a significant decrease in so called hallucinations. When provided only a few possible lanes of travel, we greatly influence the potential of a correct response.*
+[**Context is Everything**](https://github.com/bsc7080gbc/genai_core_prompt):  
 
 
-- [**Oracle PL/SQL - Dynamic SQL**](https://github.com/bsc7080gbc/plsql-dynamicsql-engine):  
-  *This goes way back but represents one of the more challenging projects I worked on. I learned a lot. Full whitepaper and presentation deck with sourcecode.  Goes back to when the analytical functions "lead" and "lag" first came out. I was fascinated how these changed everything.*
+![GitHub Repo stars](https://img.shields.io/github/stars/bsc7080gbc/genai_core_prompt?style=social)
+
+*Effective use of prompt frameworks, prompt techniques (CoT, ToT, SoT, etc), prompt engineering structures, feedback mechanisms, validation mechanisms, and other important elements providing context to our inquiries - these plus iteration - we can discover a significant decrease in so called hallucinations. When provided only a few possible lanes of travel, we greatly influence the potential of a correct response.*
+
+
+[**Oracle PL/SQL - Dynamic SQL**](https://github.com/bsc7080gbc/plsql-dynamicsql-engine):  
+
+
+![GitHub Repo stars](https://img.shields.io/github/stars/bsc7080gbc/plsql-dynamicsql-engine?style=social)
+
+*This goes way back but represents one of the more challenging projects I worked on. I learned a lot. Full whitepaper and presentation deck with sourcecode.  Goes back to when the analytical functions "lead" and "lag" first came out. I was fascinated how these changed everything.*
 
 ---
 
@@ -52,7 +66,7 @@ In short, think "Jarvis" ...but on a budget.*
 
 ## 🚧 What I’m Working on Now
 
-- [**Project MyShelf**](https://github.com/bsc7080gbc/genai_prompt_myshelf):
+[**Project MyShelf**](https://github.com/bsc7080gbc/genai_prompt_myshelf):
 
 *MyShelf is a dynamic GenAI utility designed to enhance personal organization.*
 
