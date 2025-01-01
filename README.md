@@ -49,12 +49,12 @@ In short, think "Jarvis" ...but on a budget.*
 *Effective use of prompt frameworks, prompt techniques (CoT, ToT, SoT, etc), prompt engineering structures, feedback mechanisms, validation mechanisms, and other important elements providing context to our inquiries - these plus iteration - we can discover a significant decrease in so called hallucinations. When provided only a few possible lanes of travel, we greatly influence the potential of a correct response.*
 
 
-[**Custom GPTs**](https://github.com/bsc7080gbc/genai_game_prompts):  
+[**Test Your knowledge or just explore**](https://github.com/bsc7080gbc/genai_game_prompts):  
 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bsc7080gbc/genai_game_prompts?style=social)
 
-*This repository features three immersive, text-based games designed to entertain, educate, and engage. From a Jeopardy-style quiz to a classic text adventure inspired by Zork, these games bring interactivity and creativity to the forefront.*
+*This repository features three immersive, text-based games designed to entertain, educate, and engage. From a quiz your knowledge to a Jeopardy-style quiz to a classic text adventure inspired by Zork, these games bring interactivity and creativity to the forefront.*
 
 
 [**Custom GPTs**](https://github.com/bsc7080gbc/genai_gpt_store):  
