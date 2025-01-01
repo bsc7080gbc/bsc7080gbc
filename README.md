@@ -49,6 +49,39 @@ In short, think "Jarvis" ...but on a budget.*
 *Effective use of prompt frameworks, prompt techniques (CoT, ToT, SoT, etc), prompt engineering structures, feedback mechanisms, validation mechanisms, and other important elements providing context to our inquiries - these plus iteration - we can discover a significant decrease in so called hallucinations. When provided only a few possible lanes of travel, we greatly influence the potential of a correct response.*
 
 
+[**Custom GPTs**](https://github.com/bsc7080gbc/genai_game_prompts):  
+
+
+![GitHub Repo stars](https://img.shields.io/github/stars/bsc7080gbc/genai_game_prompts?style=social)
+
+*This repository features three immersive, text-based games designed to entertain, educate, and engage. From a Jeopardy-style quiz to a classic text adventure inspired by Zork, these games bring interactivity and creativity to the forefront.*
+
+
+[**Custom GPTs**](https://github.com/bsc7080gbc/genai_gpt_store):  
+
+
+![GitHub Repo stars](https://img.shields.io/github/stars/bsc7080gbc/genai_gpt_store?style=social)
+
+<I>These include:
+
+- **iMimic**: A GPT that automatically describes and recreates uploaded images using segmentation and DALL-E generation.
+- **I.AM.HUMAN**: A collaborative tool designed to enhance creativity and ensure content resonates authentically with audiences.
+- **Mega Persona Hive Mind**: Simulates a society of 1,000 virtual personas representing diverse cultural and demographic backgrounds for insightful interactions and discussions.
+- **W.O.P.R.**: A response generator based on war operations planning.
+- **Miki the Game Master**: A text-based adventure game inspired by classic Zork, focusing on exploration and puzzles.
+- **Overland Advisor**: Provides guidance on planning and preparing for overland adventures, including vehicle selection and safety tips.
+- **C43 Owner Guide**: A resource for owners of the Mercedes-AMG C43 with DIY guides, maintenance schedules, and troubleshooting advice.
+- **Yahtzee Solo**: A solo version of Yahtzee with detailed rules and gameplay strategies.
+- **Dice Game Vault**: A playful and sarcastic GPT specializing in dice games, offering strategies and humorous commentary.
+- **Captain, Crew, and Ship**: A simulated dice game for competitive gameplay.
+- **Trolley Conductor**: Simulates the "Trial by Trolley" game with humor and engagement.
+- **Phase 10 Buddy**: A virtual assistant that provides an entertaining Phase 10 gaming experience.
+- **Punish Me Daddy Card Game**: A light-hearted card game experience. 
+
+These tools blend AI with creativity, offering various forms of entertainment, learning, and collaboration.</I>
+
+
+
 [**Oracle PL/SQL - Dynamic SQL**](https://github.com/bsc7080gbc/plsql-dynamicsql-engine):  
 
 
