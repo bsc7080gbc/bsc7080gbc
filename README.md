@@ -22,7 +22,7 @@ Hi there! 👋! This is my little corner of the tech world. I’m passionate abo
 
 ## 📂 Featured Projects
 
-[**Project MyShelf**](https://github.com/InfiniteWhispers/genai_prompt_myshelf):
+[**Project MyShelf**](https://github.com/bsc7080gbc/genai_prompt_myshelf):
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bsc7080gbc/genai_prompt_myshelf?style=social)
 
@@ -31,7 +31,7 @@ Hi there! 👋! This is my little corner of the tech world. I’m passionate abo
 In short, think "Jarvis" ...but on a budget.*
 
 > **Read the Docs**:
-  > - [![User Manual](https://img.shields.io/badge/user%20manual-8A2BE2)](https://github.com/InfiniteWhispers/genai_prompt_myshelf/wiki)
+  > - [![User Manual](https://img.shields.io/badge/user%20manual-8A2BE2)](https://github.com/bsc7080gbc/genai_prompt_myshelf/blob/main/v5/docs/README.md)
 
 
 [**Content Generator**](https://github.com/bsc7080gbc/genai_content_generator ):  
@@ -99,12 +99,14 @@ These tools blend AI with creativity, offering various forms of entertainment, l
 
 ## 🚧 What I’m Working on Now
 
-[**Project MyShelf**](https://github.com/InfiniteWhispers/genai_prompt_myshelf):
+[**Project MyShelf**](https://github.com/bsc7080gbc/genai_prompt_myshelf):
 
-*MyShelf is a dynamic GenAI utility designed to enhance personal organization.*
+*MyShelf is a dynamic GenAI utility designed to enhance personal organization. It allows users to track reminders, store memories, manage ad-hoc information, and create categorized shopping lists. Simplification of what is required was the goal: ChatGPT + GitHub. Instructions have been provided to walk you through and explain the purpose and setup. I have also provided some historical versions as well so you can see how I matured the solution to where it is today.
+.
+In short, think "Jarvis" ...but on a budget.*
 
-**Read the Docs**:
-   - [![User Manual](https://img.shields.io/badge/user%20manual-8A2BE2)](https://github.com/InfiniteWhispers/genai_prompt_myshelf/wiki)
+> **Read the Docs**:
+  > - [![User Manual](https://img.shields.io/badge/user%20manual-8A2BE2)](https://github.com/bsc7080gbc/genai_prompt_myshelf/blob/main/v5/docs/README.md)
 
 
 ---
