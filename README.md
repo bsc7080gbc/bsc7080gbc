@@ -67,6 +67,7 @@ In short, think "Jarvis" ...but on a budget.*
 - **iMimic**: A GPT that automatically describes and recreates uploaded images using segmentation and DALL-E generation.
 - **I.AM.HUMAN**: A collaborative tool designed to enhance creativity and ensure content resonates authentically with audiences.
 - **Mega Persona Hive Mind**: Simulates a society of 1,000 virtual personas representing diverse cultural and demographic backgrounds for insightful interactions and discussions.
+- **Archetype Ranker**: Assess your archetype.
 - **W.O.P.R.**: A response generator based on war operations planning.
 - **Miki the Game Master**: A text-based adventure game inspired by classic Zork, focusing on exploration and puzzles.
 - **Overland Advisor**: Provides guidance on planning and preparing for overland adventures, including vehicle selection and safety tips.
